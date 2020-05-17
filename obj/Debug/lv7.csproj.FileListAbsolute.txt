@@ -1,0 +1,7 @@
+C:\Users\Mihael\source\repos\lv7\bin\Debug\lv7.exe.config
+C:\Users\Mihael\source\repos\lv7\bin\Debug\lv7.exe
+C:\Users\Mihael\source\repos\lv7\bin\Debug\lv7.pdb
+C:\Users\Mihael\source\repos\lv7\obj\Debug\lv7.csprojAssemblyReference.cache
+C:\Users\Mihael\source\repos\lv7\obj\Debug\lv7.csproj.CoreCompileInputs.cache
+C:\Users\Mihael\source\repos\lv7\obj\Debug\lv7.exe
+C:\Users\Mihael\source\repos\lv7\obj\Debug\lv7.pdb
